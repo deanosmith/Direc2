@@ -1,5 +1,5 @@
 # Direc2
-Direc2 is a minimal navigational app, and was my first published Android application.
+Direc2 is a minimal navigation app, and was my first published Android application.
 
 Direc2 allows you to navigate your way around the world with directions and voice navigation.
 
